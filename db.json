@@ -1,0 +1,49 @@
+{
+  "urunler": [
+    {
+      "id": "1",
+      "ad": "Mat Ruj -Mavi",
+      "kategori": "Ruj",
+      "fiyat": 89.9,
+      "stok": 45,
+      "marka": "MAC",
+      "aciklama": "Uzun süre kalıcı mat ruj"
+    },
+    {
+      "id": "2",
+      "ad": "Fondöten - Açık Ton",
+      "kategori": "Fondöten",
+      "fiyat": 159.9,
+      "stok": 30,
+      "marka": "Estée Lauder",
+      "aciklama": "Orta-tam kapatıcılık, doğal görünüm"
+    },
+    {
+      "id": "5",
+      "ad": "Allık - Pembe",
+      "kategori": "Allık",
+      "fiyat": 75,
+      "stok": 40,
+      "marka": "NARS",
+      "aciklama": "Doğal pembe ton allık"
+    },
+    {
+      "id": "6",
+      "ad": "Eyeliner - Siyah",
+      "kategori": "Eyeliner",
+      "fiyat": 45,
+      "stok": 55,
+      "marka": "L'Oréal",
+      "aciklama": "Suya dayanıklı eyeliner"
+    },
+    {
+      "id": "dc76",
+      "ad": "gloss",
+      "kategori": "Fondöten",
+      "fiyat": 56,
+      "stok": 43,
+      "marka": "mac",
+      "aciklama": ""
+    }
+  ]
+}
