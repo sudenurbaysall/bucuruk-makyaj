@@ -89,7 +89,7 @@ Projeyi kendi bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 
 Repoyu klonlayın:
 
-git clone https://github.com/KULLANICI_ADIN/REPO_ADIN.git
+git clone https://github.com/sudenurbaysall/bucuruk-makyaj.git
 
 
 Proje dizinine geçin:
