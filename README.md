@@ -133,3 +133,4 @@ Component’leri parçalara ayırarak daha okunabilir ve sürdürülebilir bir y
 Bu proje sayesinde, teorik React bilgilerimi uygulamaya dökme ve gerçek bir yönetim paneli senaryosu üzerinden frontend geliştirme pratiği yapma fırsatı yakaladım.
 
 Geliştirici: Sude Nur Baysal
+.
